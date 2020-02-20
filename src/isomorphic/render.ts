@@ -1,6 +1,5 @@
-export const render = (content: string,
-  state: any) => {
-return `
+export const render = (content: string, state: any) => {
+  return `
 <!DOCTYPE html>
 <html lang="ja">
 <head>

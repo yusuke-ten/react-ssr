@@ -1,4 +1,4 @@
-const path = require('path');
+const path = require('path')
 
 module.exports = {
   mode: 'production',
@@ -22,4 +22,4 @@ module.exports = {
     filename: 'static/js/bundle.js',
     path: path.resolve(__dirname, 'dist/public')
   }
-};
+}

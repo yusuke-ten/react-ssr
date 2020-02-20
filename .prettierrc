@@ -1,0 +1,7 @@
+{
+  "printWidth": 80,
+  "eslintIntegration": true,
+  "semi": false,
+  "arrowParens": "always",
+  "singleQuote": true
+}

@@ -1,7 +1,7 @@
-import * as React from 'react';
+import * as React from 'react'
 
 const component: React.SFC = () => {
-    return <div>There is home.</div>
-};
+  return <div>There is home.</div>
+}
 
-export default component;
+export default component
